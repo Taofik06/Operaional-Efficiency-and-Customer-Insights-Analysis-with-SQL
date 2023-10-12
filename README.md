@@ -213,3 +213,21 @@ For this, there is need to create  table, and that is done below.
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/f77d541f-ce57-4ed0-ac6f-c9870f5f2d36)
 
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/aed499cc-fb5e-4305-9e03-c10fa2580236)
+
+# Recommendations:
+## Product Recommendations:
+- Introducing variations or promotional offers around Meatlovers Pizza can further boost its sales due its popularity among customers
+- Introducing new pizza types or limited-time offers to cater to the Vegetarian audience to level up its demand and sales.
+
+## Operational Recommendations:
+- Provide training or incentives to other runners to enhance their delivery efficiencies, drawing inspiration from Runner 1.
+- Pizza runner should focus on reducing the 30-minute delivery time discrepancy for better customer service and satisfaction
+- Given the rush during afternoon and nighttime, especially on Wednesdays & Saturdays, the company might consider staffing adjustments and promotional offers during off-peak hours to balance the demand.
+  
+## Pricing Strategy:
+- The Company should consider introducing tiered pricing or bundle offers which could include popular pizzas with extras.
+-- Assess the feasibility and customer reception of the $1 charge for pizza extras to determine its long-term implementation.
+
+Danny's innovative Pizza Runner venture has a good foundation. With the insights derived from the data and by actioning the above recommendations, there's great potential for optimizing operations and enhancing customer satisfaction.
+
+
