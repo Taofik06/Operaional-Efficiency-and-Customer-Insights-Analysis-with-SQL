@@ -73,7 +73,8 @@ This case study questions were divided into different areas and solved parts are
 
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/6b89ab99-eaa5-475c-822f-0ce5b949abbe)
 
-      Customers with ids 101, 102, and 103 has ordered both Meatlovers and Vegetarians Pizza. While customers with ids 104 and 105 has ordered only Meatlover and Vegetarian respectively
+      Customers with ids 101, 102, and 103 has ordered both Meatlovers and Vegetarians Pizza. 
+      While customers with ids 104 and 105 has ordered only Meatlover and Vegetarian respectively
 
 6. What was the maximum number of pizzas delivered in a single order?
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/5f1d57d9-5810-451e-8ea3-3a9bb50e60a9)
@@ -91,8 +92,8 @@ This case study questions were divided into different areas and solved parts are
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/4a501950-bd7c-43aa-9495-d943da27bc9f)
 
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/8fdd3924-1380-4152-a17e-4ef07f73ada4)
-
-   Just one order was delivered that has both exclusions and extras.
+            
+            Just one order was delivered that has both exclusions and extras.
 
 9. What was the total volume of pizzas ordered for each hour of the day?
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/42e6f04c-b860-4aea-9cdf-fa5d40598c66)
