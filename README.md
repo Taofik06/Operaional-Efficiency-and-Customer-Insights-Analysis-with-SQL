@@ -171,4 +171,42 @@ Orders from Customer 105 and 104 requires the highest and lowest average distanc
 
             Runner 1 has 100% delivery rate.
 
+## Section C: Pricing and Ratings
+- If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
+- What if there was an additional $1 charge for any pizza extras? Add cheese is $1 extra
+- The Pizza Runner team now wants to add an additional ratings system that allows customers to rate their runner, how would you design an additional table for this new dataset - generate a schema for this new table and insert your own data for ratings for each successful customer order between 1 to 5.
+- Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?
+            - customer_id
+            - order_id
+            - runner_id
+            - rating
+            - order_time
+            - pickup_time
+            - Time between order and pickup
+            - Delivery duration
+            - Average speed
+            - Total number of pizzas
 
+  ## Solutions and Querries
+ 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/6f8e6d7f-e8d1-43d7-a986-7c7368d095e2)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/9a31c785-5470-437f-8b4f-b7d4b8ca398a)
+
+            With the price given, Pizza runner has made $138
+
+2.  What if there was an additional $1 charge for any pizza extras? Add cheese is $1 extra
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/7d547b58-ffa3-42bf-a075-e690d3669522)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/e9795dd2-c932-4656-8df9-a6d105d2155b)
+
+            With extra addition, Pizza Runner has made $144
+
+3. The Pizza Runner team now wants to add an additional ratings system that allows customers to rate their runner, how would you design an additional table for this new dataset - generate a schema for this new table and insert your own data for ratings for each successful customer order between 1 to 5.
+For this, there is need to create  table, and that is done below.
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/321ed3ef-c591-46ed-85c7-eff77f285fb1)
+
+4. Join all of the information together to form a table 
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/f77d541f-ce57-4ed0-ac6f-c9870f5f2d36)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/aed499cc-fb5e-4305-9e03-c10fa2580236)
