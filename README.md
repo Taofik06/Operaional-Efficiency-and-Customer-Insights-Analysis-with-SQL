@@ -27,7 +27,7 @@ This case study questions were divided into different areas and solved parts are
 - Pricing and Ratings
 - Bonus: Ingredient Optimisation, DML Challenges (DML = Data Manipulation Language)
 
-## A. Pizza Metrics
+## Section A. Pizza Metrics
 - How many pizzas were ordered?
 - How many unique customer orders were made?
 - How many successful orders were delivered by each runner?
@@ -109,4 +109,66 @@ This case study questions were divided into different areas and solved parts are
 ![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/f28347d6-c266-4697-bbe0-38e5be9661c9)
 
     Wednesday and Thursday are the days of the week with the highest Pizza ordered.
+
+
+## Section B Runner and Customer Experience
+- How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
+- What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
+- Is there any relationship between the number of pizzas and how long the order takes to prepare?
+- What was the average distance travelled for each customer?
+- What was the difference between the longest and shortest delivery times for all orders?
+- What was the average speed for each runner for each delivery and do you notice any trend for these values?
+- What is the successful delivery percentage for each runner?
+
+## Solution and Querries
+1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/ef7ef0f9-0c64-484d-96fd-cd6e09bb6ba4)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/509f9e69-9e82-4fce-8b81-20675915fa92)
+
+The first week had the highest numbers of registered runners (3)
+
+2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/1e7d165f-069f-4095-93d5-cbe45c929a84)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/fa6bc365-e0a8-40eb-9654-266237503de3)
+
+Runner 3 had the lowest average time while Runner 2 had the highest avg time, the difference between the average time 
+might be due to the distance they had to cover to reach the HQ.
+
+3. Is there any relationship between the number of pizzas and how long the order takes to prepare?
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/9770e916-a095-497d-b7ec-d55ef55d412c)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/28805387-48ab-47f5-8425-a16bd97739b7)
+
+Yes, there is a positive relationship between the number of pizzas and the time taken, the higher the number of pizza, the more time taken to prepare.
+
+4. What was the average distance travelled for each customer?
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/6c17fe05-609d-451c-9aba-180d600eeb22)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/6f647be8-e859-4ae8-9181-b3da7ecb5653)
+
+Orders from Customer 105 and 104 requires the highest and lowest average distance travelled respectively
+
+5. What was the difference between the longest and shortest delivery times for all orders?
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/48acaff0-6bca-4e06-b367-9a95b18017ed)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/ad88cc7f-ef59-424e-b101-37b73301a3af)
+
+            There is 30minutes between the shortest and longest delivery times
+
+6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/9124f5c3-59ea-480d-b8c3-552078a52ab3)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/8e213da3-456a-4ad1-8717-afc8b2e4a26a)
+
+            The average speed for each runner per orders
+
+7. What is the successful delivery percentage for each runner?
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/29903f75-efb8-4fec-903e-8dbb39aa69a9)
+
+![image](https://github.com/Taofik06/Pizza-Runner/assets/123642327/0599165c-7a6f-427d-8687-b6afba2e3237)
+
+            Runner 1 has 100% delivery rate.
+
 
