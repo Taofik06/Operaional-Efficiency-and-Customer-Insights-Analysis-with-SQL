@@ -23,8 +23,9 @@ Danny company provided the data to be used for the analysis to write fully funct
 # Case study 
 This case study questions were divided into different areas and solved parts are highlighted as follows: 
 - Pizza Metrics
+- Runner and Customer Experience
 - Pricing and Ratings
-- Bonus: Runner and Customer Experience, Ingredient Optimisation, DML Challenges (DML = Data Manipulation Language)
+- Bonus: Ingredient Optimisation, DML Challenges (DML = Data Manipulation Language)
 
 ## A. Pizza Metrics
 - How many pizzas were ordered?
